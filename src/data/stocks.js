@@ -1,0 +1,23 @@
+export default [
+  { id:1,  name: '3M', code:'MMM', price: 155 },
+  { id:2,  name: 'American Express', code:'AXP', price: 114 },
+  { id:3,  name: 'Apple', code:'AAPL', price: 227 },
+  { id:4,  name: 'Boeing', code:'BA', price: 375 },
+  { id:5,  name: 'Caterpillar', code:'CAT', price: 121 },
+  { id:6,  name: 'Chevron', code:'CVX', price: 113 },
+  { id:7,  name: 'Cisco', code:'CSCO', price: 47 },
+  { id:8,  name: 'Coca-Cola', code:'KO', price: 54 },
+  { id:9,  name: 'Disney', code:'DIS', price: 130 },
+  {  id:10,  name: 'DOW Chemical', code:'DOW', price: 45 },
+  {  id:11,  name: 'Exxon Mobil', code:'XOM', price: 68 },
+  {  id:12,  name: 'Goldman Sachs', code:'GS', price: 200 },
+  {  id:13,  name: 'Home Depot', code:'HD', price: 227 },
+  {  id:14,  name: 'IBM', code:'IBM', price: 142 },
+  {  id:15,  name: 'Intel', code:'INTC', price: 50 },
+  {  id:16,  name: 'Johnson & Johnson', code:'JNJ', price: 133 },
+  {  id:17,  name: 'JPMorgan Chase', code:'JPM', price: 114 },
+  {  id:18,  name: 'McDonalds', code:'MCD', price: 211 },
+  {  id:19,  name: 'Merck', code:'MRK', price: 85 },
+  {  id:20,  name: 'Microsoft', code:'MSFT', price: 138 },
+
+];
