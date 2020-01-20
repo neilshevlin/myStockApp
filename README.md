@@ -7,6 +7,8 @@ I wanted to build this application to learn to use Vue.js for applications.
 <b>Built with</b>
 - [Vue](https://vuejs.org)
 - [Vuetify](https://vuetifyjs.com/en/)
+- [Express](https://expressjs.com)
+- [Webpack](https://webpack.js.org)
 
 
 
